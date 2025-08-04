@@ -7,6 +7,14 @@
   "bin": {
     "unused-assets-checker": "./dist/cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foadEbrahimi/unused-assets-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/foadEbrahimi/unused-assets-checker.git/issues"
+  },
+  "homepage": "https://github.com/foadEbrahimi/unused-assets-checker.git#readme",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
