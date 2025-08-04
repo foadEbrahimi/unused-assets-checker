@@ -1,6 +1,6 @@
 {
   "name": "unused-assets-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to find unused assets (images, SVGs) in React projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,7 +20,7 @@
     "typescript",
     "react"
   ],
-  "author": "Fouad <your.email@example.com>",
+  "author": "Foad fwad40901@gmail.com",
   "license": "MIT",
   "dependencies": {
     "commander": "^11.0.0",
